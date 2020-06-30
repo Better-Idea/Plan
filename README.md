@@ -14,7 +14,6 @@
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
 | FUNCB | 让 lang/cxx/strlize 支持浮点                                           |
-| FUNCB | 让 lang/cxx/parse 支持浮点                                             |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
 | FUNCA | 让 xgc_field 支持序列化                                                |
 | FUNCB | MMU 派生体系设计                                                       |
@@ -27,6 +26,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 lang/cxx/parse 支持浮点                                             |
 | FUNCB | 让 lang::cxx::ph 支持将多个元素当作一个整体对齐                        |
 | TINYA | 创建公共外部 API 引用中心以减少 .cpp 数目                              |
 | MOVEA | 整合内存分配算法                                                       |
