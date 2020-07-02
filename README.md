@@ -25,6 +25,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| MOVEA | 整合针对小容量内存设计的绘图缓冲区                                     |
 | FUNCB | 让 lang/cxx/strlize 支持浮点                                           |
 | FUNCB | 让 lang/cxx/parse 支持浮点                                             |
 | FUNCB | 让 lang::cxx::ph 支持将多个元素当作一个整体对齐                        |
