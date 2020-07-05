@@ -6,6 +6,7 @@
 - FUNCA：功能创建
 - FUNCB：功能增强
 - HELPA：功能说明
+- HELPB：用法指引
 - TESTA：基础测试
 - TESTB：增强测试
 - MOVEA：枯木新芽
@@ -14,6 +15,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPB | 给 lang/cxx/ 添加用法                                                  |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | HELPA | 给包含范式添加文档                                                     |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
