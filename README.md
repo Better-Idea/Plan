@@ -15,11 +15,12 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 完成 xgc_field 到 xstruct 的过渡，并适配 gc/private/                   |
+| FUNCB | 让 xstruct 支持序列化                                                  |
 | HELPB | 给 lang/cxx/ 添加用法                                                  |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | HELPA | 给包含范式添加文档                                                     |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
-| FUNCA | 让 xgc_field 支持序列化                                                |
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 让 GC 支持反射抽象类                                                   |
 | FUNCB | 策划多线程版本的 GC                                                    |
