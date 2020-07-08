@@ -16,7 +16,6 @@
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
 | FUNCB | 让 xstruct 支持序列化                                                  |
-| HELPB | 给 lang/cxx/ 添加用法                                                  |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | HELPA | 给包含范式添加文档                                                     |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
@@ -30,6 +29,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPB | 给 lang/cxx/ 添加用法                                                  |
 | FUNCB | 完成 xgc_field 到 xstruct 的过渡，并适配 gc/private/                   |
 | MOVEA | 整合针对小容量内存设计的绘图缓冲区                                     |
 | FUNCB | 让 lang/cxx/strlize 支持浮点                                           |
