@@ -3,18 +3,19 @@
 **计划第二定律：不忘初心，方得始终**
 
 ## Type
-- FUNCA：功能创建
-- FUNCB：功能增强
-- HELPA：功能说明
-- HELPB：用法指引
-- TESTA：基础测试
-- TESTB：增强测试
-- MOVEA：枯木新芽
-- TINYA：最小设计
+- 功能创建：FUNCA
+- 功能增强：FUNCB
+- 功能说明：HELPA
+- 用法指引：HELPB
+- 基础测试：TESTA
+- 增强测试：TESTB
+- 枯木新芽：MOVEA
+- 最小设计：TINYA
 
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | HELPA | 给包含范式添加文档                                                     |
