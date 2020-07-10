@@ -15,7 +15,6 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| HLEPA | 让 gc/ 帮助文档清晰                                                    |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
@@ -31,6 +30,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HLEPA | 让 gc/ 帮助文档清晰                                                    |
 | FUNCB | 让 xstruct 支持序列化                                                  |
 | HELPB | 给 lang/cxx/ 添加用法                                                  |
 | FUNCB | 完成 xgc_field 到 xstruct 的过渡，并适配 gc/private/                   |
