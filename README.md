@@ -15,6 +15,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HLEPA | 让 gc/ 帮助文档清晰                                                    |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
