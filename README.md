@@ -15,6 +15,8 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 在 hashmap 考虑键值对初始化、赋值的正确性                              |
+| FUNCB | 给 hashmap 添加 bit_indicator 增强 clear 时的性能                      |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
