@@ -11,10 +11,13 @@
 - 增强测试：TESTB
 - 枯木新芽：MOVEA
 - 最小设计：TINYA
+- 多平台化：PLTFA
+- 使国际化：PLTFB
 
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| PLTFB | 给 README 添加英文版本                                                 |
 | FUNCB | 在 hashmap 考虑键值对初始化、赋值的正确性                              |
 | FUNCB | 给 hashmap 添加 bit_indicator 增强 clear 时的性能                      |
 | FUNCA | 线程库设计                                                             |
