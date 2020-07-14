@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 docker/hashmap 针对 sizeof(kv) < sizeof(uxx) 的内存节省优化         |
 | PLTFB | 给 README 添加英文版本                                                 |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
