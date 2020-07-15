@@ -22,7 +22,6 @@
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
-| HELPA | 给包含范式添加文档                                                     |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 让 GC 支持反射抽象类                                                   |
@@ -34,6 +33,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPA | 给包含范式添加文档                                                     |
 | FUNCB | 在 hashmap 考虑键值对初始化、赋值的正确性                              |
 | FUNCB | 给 hashmap 添加 bit_indicator 增强 clear 时的性能                      |
 | HLEPA | 让 gc/ 帮助文档清晰                                                    |
