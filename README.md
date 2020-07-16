@@ -17,7 +17,6 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCA | 设计迭代器函数标准接口                                                 |
 | FUNCB | 让 docker/hashmap 针对 sizeof(kv) < sizeof(uxx) 的内存节省优化         |
 | PLTFB | 给 README 添加英文版本                                                 |
 | FUNCA | 线程库设计                                                             |
@@ -34,6 +33,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 设计迭代器函数标准接口                                                 |
 | HELPA | 给包含范式添加文档                                                     |
 | FUNCB | 在 hashmap 考虑键值对初始化、赋值的正确性                              |
 | FUNCB | 给 hashmap 添加 bit_indicator 增强 clear 时的性能                      |
