@@ -17,13 +17,14 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 多通道锁增强，增加分类抽象                                             |
+| FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 让 docker/hashmap 针对 sizeof(kv) < sizeof(uxx) 的内存节省优化         |
 | PLTFB | 给 README 添加英文版本                                                 |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
-| FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 让 GC 支持反射抽象类                                                   |
 | FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCA | 基于 setjmp + 清除栈的异常模型设计                                     |
