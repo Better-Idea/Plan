@@ -17,23 +17,24 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCB | MMU 派生体系设计                                                       |
-| FUNCB | 让 docker/hashmap 针对 sizeof(kv) < sizeof(uxx) 的内存节省优化         |
-| PLTFB | 给 README 添加英文版本                                                 |
+| FUNCB | 设计可配置并发度的 lock/policy_barrier                                 |
 | FUNCA | 线程库设计                                                             |
-| FUNCB | 让 macro/xstruct 支持位域                                              |
-| FUNCB | 在 io/tty 中添加 read_line                                             |
-| FUNCA | 设计模块多版本共存兼容惯用法                                           |
-| FUNCB | 让 GC 支持反射抽象类                                                   |
+| FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 策划多线程版本的 GC                                                    |
-| FUNCA | 基于 setjmp + 清除栈的异常模型设计                                     |
+| FUNCB | 让 macro/xstruct 支持位域                                              |
+| FUNCB | 让 macro/xstruct 支持反射抽象类                                        |
+| FUNCB | 在 io/tty 中添加 read_line                                             |
 | FUNCB | 完善迭代器，增加顺序访问迭代器                                         |
 | TINYA | 给函数使用合适的迭代器                                                 |
+| FUNCA | 设计模块多版本共存兼容惯用法                                           |
+| FUNCB | 让 docker/hashmap 针对 sizeof(kv) < sizeof(uxx) 的内存节省优化         |
+| FUNCA | 基于 setjmp + 清除栈的异常模型设计                                     |
+| PLTFB | 给 README 添加英文版本                                                 |
 
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCB | 多通道锁增强，增加分类抽象                                             |
+| FUNCB | lock/policy_barrier 增强，增加分类抽象                                 |
 | FUNCA | 设计迭代器函数标准接口                                                 |
 | HELPA | 给包含范式添加文档                                                     |
 | FUNCB | 在 hashmap 考虑键值对初始化、赋值的正确性                              |
