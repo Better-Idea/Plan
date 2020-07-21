@@ -17,7 +17,6 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCB | 设计可配置并发度的 lock/policy_barrier                                 |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 策划多线程版本的 GC                                                    |
@@ -34,6 +33,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 设计可配置并发度的 lock/policy_barrier                                 |
 | FUNCB | lock/policy_barrier 增强，增加分类抽象                                 |
 | FUNCA | 设计迭代器函数标准接口                                                 |
 | HELPA | 给包含范式添加文档                                                     |
@@ -51,3 +51,4 @@
 | MOVEA | 整合内存分配算法                                                       |
 | TESTA | 日期时间库-Date, Time 基础测试                                         |
 | FUNCA | 日期时间库-Date, Time 设计                                             |
+
