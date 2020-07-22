@@ -18,6 +18,7 @@
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
 | FUNCA | 线程库设计                                                             |
+| FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
