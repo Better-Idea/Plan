@@ -17,6 +17,8 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| PLTFA | 让 Mix-C 项目支持 msvc                                                 |
+| FUNCB | 让 xitf 接口模板使用结构体，并支持继承                                 |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
 | FUNCB | MMU 派生体系设计                                                       |
