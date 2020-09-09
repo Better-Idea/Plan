@@ -17,8 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCA | 在 Mix-C ISA 完善 asm_ldkx 指令                                        |
-| FUNCA | 在 Mix-C ISA 完善 asm_stkx 指令                                        |
+| FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
 | FUNCB | MMU 派生体系设计                                                       |
@@ -36,6 +35,8 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 在 Mix-C ISA 完善 asm_ldkx 指令                                        |
+| FUNCA | 在 Mix-C ISA 完善 asm_stkx 指令                                        |
 | MOVEA | 迁移 Mix-C ISA                                                         |
 | MOVEA | 迁移数字电路仿真库                                                     |
 | FUNCB | 让 xitf 接口模板使用结构体，并支持继承                                 |
