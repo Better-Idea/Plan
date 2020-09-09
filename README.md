@@ -18,7 +18,6 @@
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
 | FUNCA | 规划文档注释规范                                                       |
-| HELPB | 绿化：给 define/nullref 添加帮助注释                                   |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
@@ -37,6 +36,9 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPB | 绿化：给 define/inf 添加帮助注释                                       |
+| HELPB | 绿化：给 define/nan 添加帮助注释                                       |
+| HELPB | 绿化：给 define/nullref 添加帮助注释                                   |
 | FUNCA | 在 Mix-C ISA 完善 asm_ldkx 指令                                        |
 | FUNCA | 在 Mix-C ISA 完善 asm_stkx 指令                                        |
 | MOVEA | 迁移 Mix-C ISA                                                         |
