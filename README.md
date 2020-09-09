@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPB | 绿化：给 define/nullref 添加帮助注释                                   |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
