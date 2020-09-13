@@ -23,7 +23,6 @@
 | FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 策划多线程版本的 GC                                                    |
-| FUNCB | 让 macro/xstruct 支持位域                                              |
 | FUNCB | 让 macro/xstruct 支持反射抽象类                                        |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | FUNCB | 完善迭代器，增加顺序访问迭代器                                         |
@@ -36,6 +35,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 macro/xstruct 支持位域                                              |
 | HELPB | 绿化：给 define/inf 添加帮助注释                                       |
 | HELPB | 绿化：给 define/nan 添加帮助注释                                       |
 | HELPB | 绿化：给 define/nullref 添加帮助注释                                   |
