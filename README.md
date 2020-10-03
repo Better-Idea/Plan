@@ -18,7 +18,6 @@
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
 | FUNCA | 细化 Mix-C 随机访问接口                                                |
-| FUNCA | 给 Mix-F 新增 UART 接口                                                |
 | FUNCA | 规划文档注释规范                                                       |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 线程库设计                                                             |
@@ -37,6 +36,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 给 Mix-F 新增 UART 接口                                                |
 | FUNCB | 让 macro/xstruct 支持位域                                              |
 | HELPB | 绿化：给 define/inf 添加帮助注释                                       |
 | HELPB | 绿化：给 define/nan 添加帮助注释                                       |
