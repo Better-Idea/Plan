@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 线程库设计                                                             |
@@ -35,6 +36,9 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| TESTA | algo/mmu                                                               |
+| HELPA | algo/mmu                                                               |
+| FUNCA | 规划文档注释规范 step 0                                                |
 | FUNCA | 规划文档注释规范 step 0                                                |
 | FUNCA | 细化 Mix-C 随机访问接口                                                |
 | FUNCA | 给 Mix-F 新增 UART 接口                                                |
