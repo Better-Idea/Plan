@@ -25,7 +25,6 @@
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCB | 让 macro/xstruct 支持反射抽象类                                        |
-| FUNCB | 在 io/tty 中添加 read_line                                             |
 | FUNCB | 完善迭代器，增加顺序访问迭代器                                         |
 | TINYA | 给函数使用合适的迭代器                                                 |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
@@ -36,6 +35,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 在 io/tty 中添加 read_line                                             |
 | TESTA | algo/mmu                                                               |
 | HELPA | algo/mmu                                                               |
 | FUNCA | 规划文档注释规范 step 0                                                |
