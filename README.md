@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 创建 io/dir 目录基础功能                                               |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
