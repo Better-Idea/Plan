@@ -17,6 +17,9 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 实现 math/atan                                                         |
+| FUNCA | 实现 math/asin                                                         |
+| FUNCA | 实现 math/acos                                                         |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
