@@ -17,7 +17,6 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCA | 实现 math/atan                                                         |
 | FUNCA | 实现 math/asin                                                         |
 | FUNCA | 实现 math/acos                                                         |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
@@ -38,6 +37,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 实现 math/atan                                                         |
 | FUNCA | 创建 io/dir 目录基础功能                                               |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
 | TESTA | algo/mmu                                                               |
