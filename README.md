@@ -17,8 +17,8 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCA | 实现 math/asin                                                         |
-| FUNCA | 实现 math/acos                                                         |
+| FUNCB | 完善 lang/cxx/ph                                                       |
+| HELPB | 编写包含范式更多细节                                                   |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
@@ -37,6 +37,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 封装 asin/acos/cosh/sinh                                               |
 | FUNCA | 实现 math/atan                                                         |
 | FUNCA | 创建 io/dir 目录基础功能                                               |
 | FUNCB | 在 io/tty 中添加 read_line                                             |
