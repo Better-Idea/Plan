@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 全局应用 xexport，并将 xuser::inc -> xuser                             |
 | FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPB | 编写包含范式更多细节                                                   |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
