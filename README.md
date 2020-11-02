@@ -17,6 +17,10 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 docker/queue 支持静态长度                                           |
+| FUNCB | 完善 docker/queue 锁机制                                               |
+| FUNCB | 让 docker/stack 支持静态长度                                           |
+| FUNCB | 完善 docker/stack 锁机制                                               |
 | FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPB | 编写包含范式更多细节                                                   |
 | FUNCA | 线程库设计                                                             |
