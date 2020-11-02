@@ -17,20 +17,18 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCB | 全局应用 xexport，并将 xuser::inc -> xuser                             |
 | FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPB | 编写包含范式更多细节                                                   |
-| FUNCA | 基于 algo/mmu 的树形结构                                               |
-| FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
-| FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 线程库设计                                                             |
 | FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
+| FUNCA | 为 Mix-C ISA 设计调用范式                                              |
+| FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | MMU 派生体系设计                                                       |
 | FUNCB | 策划多线程版本的 GC                                                    |
+| FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
 | FUNCB | 让 macro/xstruct 支持反射抽象类                                        |
 | FUNCB | 完善迭代器，增加顺序访问迭代器                                         |
 | TINYA | 给函数使用合适的迭代器                                                 |
-| FUNCA | 设计模块多版本共存兼容惯用法                                           |
 | FUNCB | 让 docker/hashmap 针对 sizeof(kv) < sizeof(uxx) 的内存节省优化         |
 | FUNCA | 基于 setjmp + 清除栈的异常模型设计                                     |
 | PLTFB | 给 README 添加英文版本                                                 |
@@ -38,6 +36,8 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 设计模块多版本共存兼容惯用法                                           |
+| FUNCB | 全局应用 xexport，并将 xuser::inc -> xuser                             |
 | FUNCA | 封装 asin/acos/cosh/sinh                                               |
 | FUNCA | 实现 math/atan                                                         |
 | FUNCA | 创建 io/dir 目录基础功能                                               |
