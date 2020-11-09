@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 重构测试框架                                                           |
 | FUNCB | 让 docker/queue 支持静态长度                                           |
 | FUNCB | 完善 docker/queue 锁机制                                               |
 | FUNCB | 让 docker/stack 支持静态长度                                           |
