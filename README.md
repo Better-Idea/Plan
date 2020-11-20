@@ -26,7 +26,7 @@
 | FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPB | 编写包含范式更多细节                                                   |
 | FUNCA | 线程库设计                                                             |
-| FUNCB | 让 lock/policy_barrier 不能共享的同步域共用一个位指示器                |
+| FUNCB | 让 lock/policy_barrier 让所有独占式操作共用一个同步位                  |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | MMU 派生体系设计                                                       |
