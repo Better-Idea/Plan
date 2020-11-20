@@ -17,9 +17,9 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCB | 重构测试框架                                                           |
-| FUNCB | 让 docker/array 支持动态长度                                           |
-| FUNCB | 让 docker/queue 支持静态长度                                           |
+| FUNCB | 改善 macro/xitf 性能                                                   |
+| FUNCB | 让 docker/array 支持动态分配的数组                                     |
+| FUNCB | 让 docker/queue 支持静态分配                                           |
 | FUNCB | 完善 docker/queue 锁机制                                               |
 | FUNCB | 让 docker/stack 支持静态长度                                           |
 | FUNCB | 完善 docker/stack 锁机制                                               |
@@ -41,6 +41,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 重构测试框架                                                           |
 | FUNCB | 让 lock/policy_barrier 让所有独占式操作共用一个同步位                  |
 | FUNCA | 设计模块多版本共存兼容惯用法                                           |
 | FUNCB | 全局应用 xexport，并将 xuser::inc -> xuser                             |
