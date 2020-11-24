@@ -17,7 +17,6 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FUNCB | 将 xinterface 参数替换成模板 + concept 以优化性能                      |
 | FUNCB | 让 xinterface 支持去重功能                                             |
 | FUNCB | 让 docker/array 支持动态分配的数组                                     |
 | FUNCB | 让 docker/queue 支持静态分配                                           |
@@ -40,6 +39,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 将 xinterface 参数替换成模板 + concept 以优化性能                      |
 | FUNCB | 改善 macro/xinterface 性能                                             |
 | FUNCB | 让 macro/xinterface 支持继承                                           |
 | FUNCB | 完善 docker/stack 锁机制                                               |
