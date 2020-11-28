@@ -17,7 +17,6 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| TINYA | 重构 lang/cxx/replace                                                  |
 | HELPA | 绿化 algo/                                                             |
 | FUNCB | 让 lang::cxx::ph 支持带占位符的格式化                                  |
 | FUNCB | 让 xinterface 支持重载                                                 |
@@ -43,6 +42,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| TINYA | 重构 lang/cxx/replace                                                  |
 | FUNCB | 让 docker/array 支持动态分配的数组                                     |
 | FUNCB | 将 xinterface 参数替换成模板 + concept 以优化性能                      |
 | FUNCB | 改善 macro/xinterface 性能                                             |
