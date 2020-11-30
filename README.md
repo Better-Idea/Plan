@@ -17,15 +17,14 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| HELPA | 绿化 algo/                                                             |
+| HELPA | 创建 Mix-C ISA 汇编器                                                  |
 | FUNCB | 让 lang::cxx::ph 支持带占位符的格式化                                  |
+| FUNCA | 添加 docker/ring_buffer                                                |
+| FUNCB | 完善 lang/cxx/ph                                                       |
+| HELPB | 编写包含范式更多细节                                                   |
 | FUNCB | 让 xinterface 支持重载                                                 |
 | FUNCB | 让 xinterface 支持区分函数 const 修饰重载                              |
 | FUNCB | 让 xinterface 支持去重功能                                             |
-| FUNCB | 让 docker/queue 支持静态分配                                           |
-| FUNCB | 让 docker/stack 支持静态长度                                           |
-| FUNCB | 完善 lang/cxx/ph                                                       |
-| HELPB | 编写包含范式更多细节                                                   |
 | FUNCA | 线程库设计                                                             |
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
@@ -42,6 +41,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPA | 绿化 algo/                                                             |
 | TINYA | 重构 lang/cxx/replace                                                  |
 | FUNCB | 让 docker/array 支持动态分配的数组                                     |
 | FUNCB | 将 xinterface 参数替换成模板 + concept 以优化性能                      |
