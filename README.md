@@ -17,10 +17,8 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| HELPA | 创建 Mix-C ISA 汇编器                                                  |
-| FUNCB | 让 lang::cxx::ph 支持带占位符的格式化                                  |
+| FUNCA | 创建 Mix-C ISA 汇编器                                                  |
 | FUNCA | 添加 docker/ring_buffer                                                |
-| FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPB | 编写包含范式更多细节                                                   |
 | FUNCB | 让 xinterface 支持重载                                                 |
 | FUNCB | 让 xinterface 支持区分函数 const 修饰重载                              |
@@ -41,6 +39,8 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 lang::cxx::ph 支持带占位符的格式化                                  |
+| FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPA | 绿化 algo/                                                             |
 | TINYA | 重构 lang/cxx/replace                                                  |
 | FUNCB | 让 docker/array 支持动态分配的数组                                     |
