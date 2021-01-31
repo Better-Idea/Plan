@@ -17,6 +17,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 macro/private/extern.log 通用化                                     |
 | FUNCB | 在 macro/private/extern.log 底层实现使用缓存                           |
 | FUNCA | 创建 Mix-C ISA 汇编器                                                  |
 | FUNCA | 添加 docker/ring_buffer                                                |
