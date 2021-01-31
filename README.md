@@ -21,7 +21,6 @@
 | FUNCA | 创建 Mix-C ISA 汇编器                                                  |
 | FUNCA | 添加 docker/ring_buffer                                                |
 | HELPB | 编写包含范式更多细节                                                   |
-| FUNCB | 让 xinterface 支持重载                                                 |
 | FUNCB | 让 xinterface 支持区分函数 const 修饰重载                              |
 | FUNCB | 让 xinterface 支持去重功能                                             |
 | FUNCA | 线程库设计                                                             |
@@ -40,6 +39,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 xinterface 支持重载                                                 |
 | FUNCB | 让 lang::cxx::ph 支持带占位符的格式化                                  |
 | FUNCB | 完善 lang/cxx/ph                                                       |
 | HELPA | 绿化 algo/                                                             |
