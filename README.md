@@ -21,6 +21,9 @@
 | FUNCA | 创建 Mix-C ISA 汇编器                                                  |
 | FUNCA | 添加 docker/ring_buffer                                                |
 | HELPB | 编写包含范式更多细节                                                   |
+| FUNCB | 解决 xinterface 子接口重载冲突问题                                     |
+| FUNCB | 让 xinterface 支持接口间里氏转换                                       |
+| FUNCB | 让 xinterface 支持强引用模式                                           |
 | FUNCB | 让 xinterface 支持区分函数 const 修饰重载                              |
 | FUNCB | 让 xinterface 支持去重功能                                             |
 | FUNCA | 线程库设计                                                             |
