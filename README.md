@@ -43,6 +43,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| PLTFA | 支持 msvc                                                              |
 | FUNCB | 让 xinterface 支持重载                                                 |
 | FUNCB | 让 lang::cxx::ph 支持带占位符的格式化                                  |
 | FUNCB | 完善 lang/cxx/ph                                                       |
