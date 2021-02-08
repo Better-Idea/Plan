@@ -17,6 +17,8 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| TINYA | 关于 interface/ranger concept 约束部分有些乱，需要重构一下             |
+| TINYA | 关于模板参数、类内部私有模板别名统一使用 _t 后缀标识的提案             |
 | FUNCB | 让 macro/private/extern.log 通用化                                     |
 | FUNCB | 在 macro/private/extern.log 底层实现使用缓存                           |
 | FUNCA | 创建 Mix-C ISA 汇编器                                                  |
