@@ -10,6 +10,7 @@
 - 基础测试：TESTA
 - 增强测试：TESTB
 - 枯木新芽：MOVEA
+- 生根发芽：MOVEB
 - 最小设计：TINYA
 - 多平台化：PLTFA
 - 使国际化：PLTFB
@@ -18,6 +19,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| MOVEB | 让 draft/json.hpp 转正到 lang/cxx/json.hpp                             |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
 | TINYA | 给出 std::initializer_list 替代方案                                    |
 | TINYA | 关于模板参数、类内部私有模板别名统一使用 _t 后缀标识的提案             |
