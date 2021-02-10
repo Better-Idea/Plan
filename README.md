@@ -13,10 +13,12 @@
 - 最小设计：TINYA
 - 多平台化：PLTFA
 - 使国际化：PLTFB
+- 隐藏细节：HIDEA
 
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
 | TINYA | 给出 std::initializer_list 替代方案                                    |
 | TINYA | 关于模板参数、类内部私有模板别名统一使用 _t 后缀标识的提案             |
 | FUNCB | 让 macro/private/extern.log 通用化                                     |
