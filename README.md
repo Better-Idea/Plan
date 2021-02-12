@@ -19,7 +19,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| MOVEB | 让 draft/json.hpp 转正到 lang/cxx/json.hpp                             |
+| MOVEB | 让 draft/json.hpp 转正到 lang/cxx/parse_json.hpp                       |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
 | TINYA | 给出 std::initializer_list 替代方案                                    |
 | TINYA | 关于模板参数、类内部私有模板别名统一使用 _t 后缀标识的提案             |
