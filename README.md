@@ -48,6 +48,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCA | 初步封装 pthread，支持 linux 平台                                      |
 | MOVEB | 让 draft/json.hpp 转正到 lang/cxx/parse_json.hpp                       |
 | TINYA | 关于 interface/ranger concept 约束部分有些乱，需要重构一下             |
 | PLTFA | 支持 msvc                                                              |
