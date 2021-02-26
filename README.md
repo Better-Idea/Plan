@@ -31,7 +31,6 @@
 | FUNCB | 在 macro/private/extern.log 底层实现使用缓存                           |
 | FUNCA | 创建 Mix-C ISA 汇编器                                                  |
 | FUNCA | 添加 docker/ring_buffer                                                |
-| HELPB | 编写包含范式更多细节                                                   |
 | FUNCB | 解决 xinterface 子接口重载冲突问题                                     |
 | FUNCB | 让 xinterface 支持接口间里氏转换                                       |
 | FUNCB | 让 xinterface 支持强引用模式                                           |
@@ -53,6 +52,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| HELPB | 编写包含范式更多细节                                                   |
 | FUNCA | 初步封装 pthread，先支持 linux 平台                                    |
 | MOVEB | 让 draft/json.hpp 转正到 lang/cxx/parse_json.hpp                       |
 | TINYA | 关于 interface/ranger concept 约束部分有些乱，需要重构一下             |
