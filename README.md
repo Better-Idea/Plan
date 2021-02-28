@@ -21,7 +21,6 @@
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
 | FUNCB | 使用 doxygen 格式的文档注释                                            |
-| TINYA | 整理 memory/ 接口                                                      |
 | FUNCA | 初步封装套接字接口，先支持 linux 平台                                  |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
 | TINYA | 给出 std::initializer_list 替代方案                                    |
@@ -50,6 +49,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| TINYA | 整理 memory/ 接口                                                      |
 | CONSA | 使用 _v 后缀作为数值模板参数的提案                                     |
 | CONSA | 关于模板参数、类内部私有模板别名统一使用 _t 后缀标识的提案             |
 | HELPB | 编写包含范式更多细节                                                   |
