@@ -20,6 +20,7 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让结构嵌套的容器对接 gc 接口                                           |
 | FUNCB | 使用 doxygen 格式的文档注释                                            |
 | FUNCA | 初步封装套接字接口，先支持 linux 平台                                  |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
