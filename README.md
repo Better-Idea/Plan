@@ -37,7 +37,6 @@
 | FUNCA | 为 Mix-C ISA 设计调用范式                                              |
 | FUNCA | 基于 algo/mmu 的树形结构                                               |
 | FUNCB | MMU 派生体系设计                                                       |
-| FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCB | 让 macro/xstruct 支持引用类型成员变量指针                              |
 | FUNCB | 让 macro/xstruct 支持反射抽象类                                        |
 | FUNCB | 完善迭代器，增加顺序访问迭代器                                         |
@@ -49,6 +48,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCB | 支持多线程版 tiny_allocator                                            |
 | TINYA | 整理 memory/ 接口                                                      |
 | CONSA | 使用 _v 后缀作为数值模板参数的提案                                     |
