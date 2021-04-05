@@ -20,8 +20,9 @@
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FUNCB | 让 GC 支持前台线程自行[外析构]特定的[平凡类型]以减少队列压力           |
+| FUNCB | 让结构嵌套的容器对接 GC 接口                                           |
 | CONSA | 引入匈牙利命名法修饰变量名称                                           |
-| FUNCB | 让结构嵌套的容器对接 gc 接口                                           |
 | FUNCB | 使用 doxygen 格式的文档注释                                            |
 | FUNCA | 初步封装套接字接口，先支持 linux 平台                                  |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
@@ -102,10 +103,10 @@
 | HELPA | 给包含范式添加文档                                                     |
 | FUNCB | 在 hashmap 考虑键值对初始化、赋值的正确性                              |
 | FUNCB | 给 hashmap 添加 bit_indicator 增强 clear 时的性能                      |
-| HLEPA | 让 gc/ 帮助文档清晰                                                    |
+| HLEPA | 让 GC/ 帮助文档清晰                                                    |
 | FUNCB | 让 xstruct 支持序列化                                                  |
 | HELPB | 给 lang/cxx/ 添加用法                                                  |
-| FUNCB | 完成 xgc_field 到 xstruct 的过渡，并适配 gc/private/                   |
+| FUNCB | 完成 xgc_field 到 xstruct 的过渡，并适配 GC/private/                   |
 | MOVEA | 整合针对小容量内存设计的绘图缓冲区                                     |
 | FUNCB | 让 lang/cxx/strlize 支持浮点                                           |
 | FUNCB | 让 lang/cxx/parse 支持浮点                                             |
