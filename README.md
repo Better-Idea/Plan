@@ -23,7 +23,6 @@
 | FUNCB | 让 GC 支持修改指向时的共享安全                                         |
 | FUNCB | 让 GC 支持前台线程自行[外析构]特定的[平凡类型]以减少队列压力           |
 | FUNCB | 让结构嵌套的容器对接 GC 接口                                           |
-| CONSA | 引入匈牙利命名法修饰变量名称                                           |
 | FUNCB | 使用 doxygen 格式的文档注释                                            |
 | FUNCA | 初步封装套接字接口，先支持 linux 平台                                  |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
@@ -52,6 +51,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| CONSA | 引入匈牙利命名法修饰变量名称                                           |
 | FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCB | 支持多线程版 tiny_allocator                                            |
 | TINYA | 整理 memory/ 接口                                                      |
