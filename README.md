@@ -16,14 +16,18 @@
 - 多平台化：PLTFA
 - 使国际化：PLTFB
 - 隐藏细节：HIDEA
+- 问题修复：FIXXA
+- 功能预研：NEWFA
 
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FIXXA | 修复 GC 剪枝 BUG                                                       |
+| NEWFA | 设计基于 [[no_unique_address]] 的属性范式                              |
+| FUNCB | 使用 doxygen 格式的文档注释                                            |
 | FUNCB | 让 GC 支持修改指向时的共享安全                                         |
 | FUNCB | 让 GC 支持前台线程自行[外析构]特定的[平凡类型]以减少队列压力           |
 | FUNCB | 让结构嵌套的容器对接 GC 接口                                           |
-| FUNCB | 使用 doxygen 格式的文档注释                                            |
 | FUNCA | 初步封装套接字接口，先支持 linux 平台                                  |
 | HIDEA | 在 docker/private/btree.hpp 中隐藏 SIMD 实现                           |
 | TINYA | 给出 std::initializer_list 替代方案                                    |
