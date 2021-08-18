@@ -3,6 +3,7 @@
 **计划第二定律：不忘初心，方得始终**
 
 ## Type
+- 功能预研：NEWFA
 - 功能创建：FUNCA
 - 功能增强：FUNCB
 - 功能说明：HELPA
@@ -13,16 +14,17 @@
 - 生根发芽：MOVEB
 - 最小设计：TINYA
 - 一致设计：CONSA
-- 多平台化：PLTFA
-- 使国际化：PLTFB
 - 隐藏细节：HIDEA
+- 多平台化：PLTFA
+- 代码回顾：RVIEW
 - 问题修复：FIXXA
-- 功能预研：NEWFA
+- 使国际化：PLTFB
 
 ## Push
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
-| FIXXA | 修复 GC 剪枝 BUG                                                       |
+| RVIEW | 回顾 2021/08/16 Mix-C 项目提交的代码                                   |
+| NEWFA | 设计结构化模板配置参数                                                 |
 | NEWFA | 设计基于 [[no_unique_address]] 的属性范式                              |
 | FUNCB | 使用 doxygen 格式的文档注释                                            |
 | FUNCB | 让 GC 支持修改指向时的共享安全                                         |
@@ -55,6 +57,7 @@
 ## Pop
 | Type  | Description                                                            |
 |-------|------------------------------------------------------------------------|
+| FIXXA | 修复 GC 剪枝 BUG                                                       |
 | CONSA | 引入匈牙利命名法修饰变量名称                                           |
 | FUNCB | 策划多线程版本的 GC                                                    |
 | FUNCB | 支持多线程版 tiny_allocator                                            |
